@@ -14,7 +14,7 @@ I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js*
 - Improving my [Next.js](https://nextjs.org/) knowledge
 - [Styled components](https://styled-components.com/) (I've worked extensively with Emotion and I want to try this out)
 
-### ⚡ My ideal web stack (right now!)
+### ⚡ My ideal frontend arquitecture (right now!)
 - React
 - Typescript
 - [Stitches](https://stitches.dev/) for CSS
