@@ -18,8 +18,9 @@ I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js*
 - React
 - Typescript
 - [Stitches](https://stitches.dev/) for CSS
-- [Radix UI](https://www.radix-ui.com/) for primitives
-- [Vite](https://vitejs.dev/) for building
+- [Radix UI](https://www.radix-ui.com/) for ui primitives
+- [React-hook-forms](https://react-hook-form.com/) for form management
+- [Vite](https://vitejs.dev/) for a fast DX
 - [React-query](https://react-query.tanstack.com/) for data fetching
 - [Zustand](https://github.com/pmndrs/zustand) for global states
 - Jest & React testing library for unit / integration testing (TDD)
