@@ -13,12 +13,13 @@ I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js*
 - [Remix](https://remix.run/)
 - Improving my [Next.js](https://nextjs.org/) knowledge
 - [Styled components](https://styled-components.com/) (I've worked extensively with Emotion and I want to try this out)
+- [Solid.js](https://www.solidjs.com/)
+- [vanilla-extract](https://vanilla-extract.style/)
 
 ### ⚡ My current frontend stack
 - React
 - Typescript
-- [Stitches](https://stitches.dev/) for CSS
-- [Radix UI](https://www.radix-ui.com/) for ui primitives
+- [Emotion](https://emotion.sh/docs/introduction) for CSS
 - [React-hook-forms](https://react-hook-form.com/) for form management ❤️
 - [Vite](https://vitejs.dev/) for a fast DX
 - [React-query](https://react-query.tanstack.com/) for data fetching
