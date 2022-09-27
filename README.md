@@ -10,7 +10,7 @@ order to grow both personally and professionally.
 I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js** and migrated some projects from **Angular 1.x**
 
 ### 🌱 I’m currently learning
-- [Remix](https://remix.run/)
+- [Astro](https://astro.build/)
 - Improving my [Next.js](https://nextjs.org/) knowledge
 - [Styled components](https://styled-components.com/) (I've worked extensively with Emotion and I want to try this out)
 - [Solid.js](https://www.solidjs.com/)
