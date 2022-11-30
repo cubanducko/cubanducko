@@ -1,5 +1,5 @@
 ## 👋🏼 Hello there!
-I'm **Ricardo Domínguez** (A.K.A. The cuban duck), frontend developer since 2015 and **based in Madrid**.
+I'm **Ricardo Domínguez** (A.K.A. The cuban duck), **frontend developer since 2015** and **based in Madrid**.
 
 Within the different branches of programming I’ve found in frontend development a perfect
 match between my interest in refined visuals and my passion for software architecture.
