@@ -12,14 +12,12 @@ I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js*
 ### 🌱 I’m currently learning
 - [Astro](https://astro.build/)
 - Improving my [Next.js](https://nextjs.org/) knowledge
-- [Styled components](https://styled-components.com/) (I've worked extensively with Emotion and I want to try this out)
-- [Solid.js](https://www.solidjs.com/)
-- [vanilla-extract](https://vanilla-extract.style/)
+- [Tailwind.css](https://styled-components.com/](https://tailwindcss.com/) (I've worked extensively with Emotion and I want to try this out)
 
 ### ⚡ My current frontend stack
 - React
 - Typescript
-- [Emotion](https://emotion.sh/docs/introduction) for CSS
+- [CSS Modules](https://emotion.sh/docs/introduction](https://github.com/css-modules/css-modules) for CSS
 - [React-hook-forms](https://react-hook-form.com/) for form management ❤️
 - [Vite](https://vitejs.dev/) for a fast DX
 - [React-query](https://react-query.tanstack.com/) for data fetching
