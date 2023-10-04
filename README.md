@@ -12,7 +12,7 @@ I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js*
 ### 🌱 I’m currently learning
 - [Astro](https://astro.build/)
 - Improving my [Next.js](https://nextjs.org/) knowledge
-- [Tailwind.css](https://tailwindcss.com/) (I've worked extensively with Emotion and I want to try this out)
+- [Tailwind.css](https://tailwindcss.com/)
 
 ### ⚡ My current frontend stack
 - React
