@@ -10,13 +10,15 @@ order to grow both personally and professionally.
 I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js** and migrated some projects from **Angular 1.x**
 
 ### 🌱 I’m currently learning
-- [Astro](https://astro.build/)
 - Improving my [Next.js](https://nextjs.org/) knowledge
-- [Tailwind.css](https://tailwindcss.com/)
+- Starting with [Remix.run](https://remix.run/).
+- [Supabase](https://supabase.com/), databases and a bit of backend to become T-shaped
+- [CDK](https://aws.amazon.com/es/cdk/) for infrastructure
 
 ### ⚡ My current frontend stack
 - React
 - Typescript
+- [Tailwind.css](https://tailwindcss.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules) for CSS
 - [React-hook-forms](https://react-hook-form.com/) for form management ❤️
 - [Vite](https://vitejs.dev/) for a fast DX
