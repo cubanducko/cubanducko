@@ -1,33 +1,33 @@
 ## 👋🏼 Hello there!
 
-I'm **Ricardo Domínguez** (A.K.A. The cuban duck), **frontend developer since 2015** and **based in Madrid**.
+I'm **Ricardo Domínguez**, **a frontend developer since 2015**, currently based in **Madrid**.
 
-Within the different branches of programming I’ve found in frontend development a perfect
-match between my interest in refined visuals and my passion for software architecture.
+Within the different branches of programming, I’ve found in frontend development the perfect balance between my interest in refined visuals and my passion for solid software architecture. Over the years, I’ve grown into a T-shaped developer: my deep expertise lies in building rich, maintainable, and scalable user interfaces, while I also bring a broad understanding across the stack.
 
-I consider myself to be a decisive and pragmatic person, always trying to learn new things in
-order to grow both personally and professionally.
+Although my core strength is frontend, lately I’ve been diving into infrastructure and backend development, learning how systems behave behind the curtain and how to deliver more cohesive, end-to-end solutions.
 
-I'm a big **Typescript and React fan** 🤓, but I've also worked with **Vue.js** and migrated some projects from **Angular 1.x**
+I consider myself a decisive and pragmatic person, always looking for new challenges and opportunities to grow both personally and professionally.
+
+I’m a big **TypeScript** and **React** fan 🤓, but I’ve also worked with **Vue.js**, and I’ve led migrations from **Angular 1.x**.
+I enjoy writing clean, predictable code, improving developer experience, and contributing to architectures that scale gracefully.
 
 ### 🌱 I’m currently learning
 
 - Improving my [Next.js](https://nextjs.org/) knowledge
-- Starting with [Remix.run](https://remix.run/).
-- [Supabase](https://supabase.com/), databases and a bit of backend to become T-shaped
-- [CDK](https://aws.amazon.com/es/cdk/) for infrastructure
+- Learning more and more about [Terraform](https://developer.hashicorp.com/terraform)
 
-### ⚡ My current frontend stack
+### ⚡ My current stack
 
 - React
 - Typescript
+- [Bun](https://bun.com/docs) / [Elysia](https://elysiajs.com/) for BE development
+- [Drizzle](https://orm.drizzle.team/) for ORM
 - [Tailwind.css](https://tailwindcss.com/)
-- [CSS Modules](https://github.com/css-modules/css-modules) for CSS
 - [React-hook-forms](https://react-hook-form.com/) for form management ❤️
 - [Vite](https://vitejs.dev/) for a fast DX
 - [React-query](https://react-query.tanstack.com/) for data fetching
 - [Zustand](https://github.com/pmndrs/zustand) for global state
-- Jest & React testing library for unit / integration testing (TDD)
+- Vitest & React testing library for unit / integration testing (TDD)
 - Playwright for E2E
 
 <!--
