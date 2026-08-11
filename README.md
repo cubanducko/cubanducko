@@ -1,14 +1,12 @@
 ## 👋🏼 Hello there!
 
-I'm **Ricardo Domínguez**, a **software engineer since 2015**, currently based in **Madrid**.
+**Software engineer since 2015**, based in Madrid. **Full-stack engineer** with the deepest expertise in rich, maintainable user interfaces built with **TypeScript and React**, and a growing footprint on the server side.
 
-I work **across the stack**, with my deepest expertise in building **rich, maintainable user interfaces** — and a growing footprint on the server side. I've designed and built **backend APIs with Node.js and Express**, migrated multi-page systems to **SSR architectures with Next.js**, and architected **orchestration systems coordinating distributed services via message queues**. What drew me to engineering in the first place — the balance between refined product surfaces and solid software architecture — is exactly what I enjoy about **owning features end to end**.
+Designed and built **backend APIs with Node.js and Express**, migrated multi-page systems to **server-side rendering (SSR) architectures with Next.js**, and architected **orchestration systems that coordinate multiple scrapers through message queues**. **Owns features end to end**, from the data model and async processing to the interaction they power.
 
-I'm a **T-shaped engineer**: frontend is where I go deepest, but I'm most effective when I can reason about the whole system — from the **data model and async processing** behind an API to the interaction it ultimately powers.
+**Early adopter of AI-assisted development**: uses AI tooling in daily workflows, helps teams adopt it effectively, and **authored the AI playbooks for new engineers**.
 
-I'm also an **early adopter of AI-assisted development**: AI tooling is deeply embedded in my daily workflows — from **Claude Code agents with custom skills** to **MCP integrations** that let agents verify their own output — and I've helped teams adopt it effectively, including **authoring the AI playbook** for new engineers at my current company.
-
-I'm a big **TypeScript** and **React** fan 🤓, and I've also shipped with **Vue.js**, **Bun**, and **Node.js**, and led migrations from **Angular 1.x**. I enjoy writing clean, predictable code, improving developer experience, and contributing to architectures that scale gracefully.
+Also shipped with Vue.js, Bun, Prisma, and Node.js, and led migrations from Angular 1.x. Writes clean, predictable code, improves developer experience, and contributes to architectures that scale.
 
 ### 🌱 I'm currently learning
 
