@@ -1,33 +1,39 @@
 ## 👋🏼 Hello there!
 
-I'm **Ricardo Domínguez**, **a frontend developer since 2015**, currently based in **Madrid**.
+I'm **Ricardo Domínguez**, a **software engineer since 2015**, currently based in **Madrid**.
 
-Within the different branches of programming, I’ve found in frontend development the perfect balance between my interest in refined visuals and my passion for solid software architecture. Over the years, I’ve grown into a T-shaped developer: my deep expertise lies in building rich, maintainable, and scalable user interfaces, while I also bring a broad understanding across the stack.
+I work **across the stack**, with my deepest expertise in building **rich, maintainable user interfaces** — and a growing footprint on the server side. I've designed and built **backend APIs with Node.js and Express**, migrated multi-page systems to **SSR architectures with Next.js**, and architected **orchestration systems coordinating distributed services via message queues**. What drew me to engineering in the first place — the balance between refined product surfaces and solid software architecture — is exactly what I enjoy about **owning features end to end**.
 
-Although my core strength is frontend, lately I’ve been diving into infrastructure and backend development, learning how systems behave behind the curtain and how to deliver more cohesive, end-to-end solutions.
+I'm a **T-shaped engineer**: frontend is where I go deepest, but I'm most effective when I can reason about the whole system — from the **data model and async processing** behind an API to the interaction it ultimately powers.
 
-I consider myself a decisive and pragmatic person, always looking for new challenges and opportunities to grow both personally and professionally.
+I'm also an **early adopter of AI-assisted development**: AI tooling is deeply embedded in my daily workflows — from **Claude Code agents with custom skills** to **MCP integrations** that let agents verify their own output — and I've helped teams adopt it effectively, including **authoring the AI playbook** for new engineers at my current company.
 
-I’m a big **TypeScript** and **React** fan 🤓, but I’ve also worked with **Vue.js**, and I’ve led migrations from **Angular 1.x**.
-I enjoy writing clean, predictable code, improving developer experience, and contributing to architectures that scale gracefully.
+I'm a big **TypeScript** and **React** fan 🤓, and I've also shipped with **Vue.js**, **Bun**, and **Node.js**, and led migrations from **Angular 1.x**. I enjoy writing clean, predictable code, improving developer experience, and contributing to architectures that scale gracefully.
 
-### 🌱 I’m currently learning
+### 🌱 I'm currently learning
 
 - Improving my [Next.js](https://nextjs.org/) knowledge
 - Learning more and more about [Terraform](https://developer.hashicorp.com/terraform)
 
 ### ⚡ My current stack
 
-- React
-- Typescript
-- [Bun](https://bun.com/docs) / [Elysia](https://elysiajs.com/) for BE development
-- [Drizzle](https://orm.drizzle.team/) for ORM
-- [Tailwind.css](https://tailwindcss.com/)
-- [React-hook-forms](https://react-hook-form.com/) for form management ❤️
-- [Vite](https://vitejs.dev/) for a fast DX
-- [React-query](https://react-query.tanstack.com/) for data fetching
+**Frontend**
+
+- React + TypeScript
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Query](https://react-query.tanstack.com/) for data fetching
 - [Zustand](https://github.com/pmndrs/zustand) for global state
-- Vitest & React testing library for unit / integration testing (TDD)
+- [React Hook Form](https://react-hook-form.com/) for form management ❤️
+- [Vite](https://vitejs.dev/) for a fast DX
+
+**Backend**
+
+- [Bun](https://bun.com/docs) + [Elysia](https://elysiajs.com/)
+- [Drizzle](https://orm.drizzle.team/) for ORM
+
+**Testing**
+
+- Vitest & React Testing Library for unit / integration testing (TDD)
 - Playwright for E2E
 
 <!--
